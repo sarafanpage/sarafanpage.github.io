@@ -1,0 +1,35 @@
+
+#sara-img {
+	border: groove 8px rgb(204,0,102);
+	padding: 3px;
+
+	margin: 0px 20px 10px 10px;
+	float:left;
+}
+
+h1 {
+	text-align:center;
+	font-family:fantasy;
+	background-color:palevioletred;
+	font-weight:bold;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	border: none 0px;
+}
+
+
+
+#sara-info {
+	overflow-y:scroll;
+	height:160px;
+	border: dotted 8px blue;
+	padding:4px 6px 4px 6px;
+	margin-right:10px;
+}
+
+
+
+body {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+}
